@@ -49,6 +49,10 @@ O que veremos na aula de hoje?
 * [Exercicio para sala](https://github.com/reprograma/on26-python-s15-visualizacao-de-dados/tree/main/exercicios/para-sala)
 * [Exercicio para casa](https://github.com/reprograma/on26-python-s15-visualizacao-de-dados/tree/main/exercicios/para-casa)
 
+### Links
+
+* [Tipos de Gráficos Básicos](https://www.youtube.com/watch?v=xnr0iLB157E)
+* [Analisando dados da Netflix](https://www.youtube.com/watch?v=SlVqnZhWVvA)
 
 <p align="center">
 Desenvolvido com :purple_heart:  
