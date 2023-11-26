@@ -1,0 +1,133 @@
+Date,Name,Type,Country Name,Country Code
+2023-01-01,New Year's Day,['National holiday'],Canada,CA
+2023-01-02,Day off for New Year's Day,['National holiday'],Canada,CA
+2023-01-02,Day After New Year’s Day,['Local holiday'],Canada,CA
+2023-01-06,Epiphany,"['Observance', 'Christian']",Canada,CA
+2023-01-07,Orthodox Christmas Day,['Orthodox'],Canada,CA
+2023-01-14,Orthodox New Year,['Orthodox'],Canada,CA
+2023-01-22,Lunar New Year,['Observance'],Canada,CA
+2023-02-02,Groundhog Day,['Observance'],Canada,CA
+2023-02-06,Tu B'Shevat (Arbor Day),['Hebrew'],Canada,CA
+2023-02-14,Valentine's Day,['Observance'],Canada,CA
+2023-02-15,National Flag of Canada Day,['Observance'],Canada,CA
+2023-02-18,Isra and Mi'raj,['Muslim'],Canada,CA
+2023-02-20,Louis Riel Day,['Common local holiday'],Canada,CA
+2023-02-20,Nova Scotia Heritage Day,['Common local holiday'],Canada,CA
+2023-02-20,Islander Day,['Common local holiday'],Canada,CA
+2023-02-20,Family Day,['Common local holiday'],Canada,CA
+2023-02-20,Family Day,['Common local holiday'],Canada,CA
+2023-02-21,Carnival / Shrove Tuesday / Pancake Day,['Christian'],Canada,CA
+2023-02-22,Ash Wednesday,['Christian'],Canada,CA
+2023-02-24,Yukon Heritage Day,['Common local holiday'],Canada,CA
+2023-03-01,St David's Day,['Observance'],Canada,CA
+2023-03-07,Purim,['Hebrew'],Canada,CA
+2023-03-12T02:00:00-05:00,Daylight Saving Time starts,['Clock change/Daylight Saving Time'],Canada,CA
+2023-03-13,Commonwealth Day,['Observance'],Canada,CA
+2023-03-17,St. Patrick's Day,['Observance'],Canada,CA
+2023-03-20,St. Patrick's Day,['Local holiday'],Canada,CA
+2023-03-20T17:24:20-04:00,March Equinox,['Season'],Canada,CA
+2023-03-23,Ramadan Start,['Muslim'],Canada,CA
+2023-04-02,Palm Sunday,['Christian'],Canada,CA
+2023-04-06,Maundy Thursday,['Christian'],Canada,CA
+2023-04-06,First day of Passover,['Hebrew'],Canada,CA
+2023-04-06,Tartan Day,['Observance'],Canada,CA
+2023-04-07,Good Friday,"['National holiday', 'Christian']",Canada,CA
+2023-04-08,Holy Saturday,['Christian'],Canada,CA
+2023-04-09,Easter Sunday,['Common local holiday'],Canada,CA
+2023-04-09,Easter Sunday,['Common local holiday'],Canada,CA
+2023-04-09,Easter Sunday,"['Observance', 'Christian']",Canada,CA
+2023-04-09,Vimy Ridge Day,['Observance'],Canada,CA
+2023-04-10,Easter Monday,['National holiday'],Canada,CA
+2023-04-10,Easter Monday,['Local holiday'],Canada,CA
+2023-04-10,Easter Monday,['Optional holiday'],Canada,CA
+2023-04-10,Easter Monday,['De facto holiday'],Canada,CA
+2023-04-10,Easter Monday,['Local holiday'],Canada,CA
+2023-04-13,Last day of Passover,['Hebrew'],Canada,CA
+2023-04-14,Orthodox Good Friday,['Orthodox'],Canada,CA
+2023-04-15,Orthodox Holy Saturday,['Orthodox'],Canada,CA
+2023-04-16,Orthodox Easter,['Orthodox'],Canada,CA
+2023-04-17,Laylatul Qadr (Night of Power),['Muslim'],Canada,CA
+2023-04-17,Orthodox Easter Monday,['Orthodox'],Canada,CA
+2023-04-18,Yom HaShoah,['Hebrew'],Canada,CA
+2023-04-21,Eid ul Fitr,['Muslim'],Canada,CA
+2023-04-24,St. George's Day,['Local holiday'],Canada,CA
+2023-04-26,Yom HaAtzmaut,['Hebrew'],Canada,CA
+2023-05-06,The Coronation of King Charles III,['Observance'],Canada,CA
+2023-05-09,Lag B'Omer,['Hebrew'],Canada,CA
+2023-05-14,Mother's Day,['Observance'],Canada,CA
+2023-05-18,Ascension Day,['Christian'],Canada,CA
+2023-05-22,National Patriots' Day,['Local holiday'],Canada,CA
+2023-05-22,Victoria Day,['Local holiday'],Canada,CA
+2023-05-22,Victoria Day,['National holiday'],Canada,CA
+2023-05-26,Shavuot,['Hebrew'],Canada,CA
+2023-05-28,Pentecost,['Christian'],Canada,CA
+2023-05-29,Whit Monday,['Christian'],Canada,CA
+2023-06-04,Trinity Sunday,['Christian'],Canada,CA
+2023-06-08,Corpus Christi,['Christian'],Canada,CA
+2023-06-18,Father's Day,['Observance'],Canada,CA
+2023-06-21,National Indigenous Peoples Day,['Observance'],Canada,CA
+2023-06-21,National Indigenous Peoples Day,['Local holiday'],Canada,CA
+2023-06-21T10:57:49-04:00,June Solstice,['Season'],Canada,CA
+2023-06-24,St. Jean Baptiste Day,['Local holiday'],Canada,CA
+2023-06-26,June Holiday,['Local holiday'],Canada,CA
+2023-06-28,Eid al-Adha,['Muslim'],Canada,CA
+2023-07-01,Memorial Day,['Local holiday'],Canada,CA
+2023-07-01,Canada Day,['National holiday'],Canada,CA
+2023-07-09,Nunavut Day,['Local holiday'],Canada,CA
+2023-07-10,Nunavut Day observed,['Local holiday'],Canada,CA
+2023-07-10,Orangemen's Day,['Local holiday'],Canada,CA
+2023-07-19,Muharram/Islamic New Year,['Muslim'],Canada,CA
+2023-07-27,Tisha B'Av,['Hebrew'],Canada,CA
+2023-07-28,Ashura,['Muslim'],Canada,CA
+2023-08-02,The Royal St John's Regatta (Regatta Day),['Local holiday'],Canada,CA
+2023-08-07,Civic/Provincial Day,['Common local holiday'],Canada,CA
+2023-08-07,Civic/Provincial Day,['Local observance'],Canada,CA
+2023-08-07,Saskatchewan Day,['Common local holiday'],Canada,CA
+2023-08-07,Terry Fox Day,['Local observance'],Canada,CA
+2023-08-07,New Brunswick Day,['Common local holiday'],Canada,CA
+2023-08-07,British Columbia Day,['Common local holiday'],Canada,CA
+2023-08-07,Natal Day,['Common local holiday'],Canada,CA
+2023-08-07,Heritage Day,['Optional holiday'],Canada,CA
+2023-08-15,Assumption of Mary,['Christian'],Canada,CA
+2023-08-18,Gold Cup Parade,['Local holiday'],Canada,CA
+2023-08-21,Discovery Day,['Local holiday'],Canada,CA
+2023-09-04,Labour Day,['National holiday'],Canada,CA
+2023-09-16,Rosh Hashana,['Hebrew'],Canada,CA
+2023-09-23T02:50:01-04:00,September Equinox,['Season'],Canada,CA
+2023-09-25,Yom Kippur,['Hebrew'],Canada,CA
+2023-09-27,Milad un Nabi (Mawlid),['Muslim'],Canada,CA
+2023-09-30,First day of Sukkot,['Hebrew'],Canada,CA
+2023-09-30,National Day for Truth and Reconciliation,['National holiday'],Canada,CA
+2023-09-30,National Day for Truth and Reconciliation,['Local holiday'],Canada,CA
+2023-10-04,Feast of St Francis of Assisi,['Christian'],Canada,CA
+2023-10-06,Hoshana Rabbah,['Hebrew'],Canada,CA
+2023-10-07,Shemini Atzeret,['Hebrew'],Canada,CA
+2023-10-08,Simchat Torah,['Hebrew'],Canada,CA
+2023-10-09,Thanksgiving Day,['National holiday'],Canada,CA
+2023-10-09,Thanksgiving Day,['Common local holiday'],Canada,CA
+2023-10-09,Thanksgiving Day,['Observance'],Canada,CA
+2023-10-09,Thanksgiving Day,['Local holiday'],Canada,CA
+2023-10-18,Healthcare Aide Day,['Local observance'],Canada,CA
+2023-10-31,Halloween,['Observance'],Canada,CA
+2023-11-01,All Saints' Day,"['Observance', 'Christian']",Canada,CA
+2023-11-02,All Souls' Day,"['Observance', 'Christian']",Canada,CA
+2023-11-05T02:00:00-04:00,Daylight Saving Time ends,['Clock change/Daylight Saving Time'],Canada,CA
+2023-11-08,National Aboriginal Veterans Day,['Observance'],Canada,CA
+2023-11-11,Remembrance Day,['National holiday'],Canada,CA
+2023-11-11,Remembrance Day,['Observance'],Canada,CA
+2023-11-12,Diwali/Deepavali,['Observance'],Canada,CA
+2023-12-03,First Sunday of Advent,['Observance'],Canada,CA
+2023-12-08,Feast of the Immaculate Conception,['Christian'],Canada,CA
+2023-12-08,First Day of Hanukkah,['Hebrew'],Canada,CA
+2023-12-11,Anniversary of the Statute of Westminster,['Observance'],Canada,CA
+2023-12-15,Last day of Hanukkah,['Hebrew'],Canada,CA
+2023-12-21T22:27:21-05:00,December Solstice,['Season'],Canada,CA
+2023-12-24,Christmas Eve,['Observance'],Canada,CA
+2023-12-25,Christmas Day,"['National holiday', 'Christian']",Canada,CA
+2023-12-26,Kwanzaa (first day),['Observance'],Canada,CA
+2023-12-26,Boxing Day,['National holiday'],Canada,CA
+2023-12-26,Boxing Day,['Common local holiday'],Canada,CA
+2023-12-26,Boxing Day,['De facto holiday'],Canada,CA
+2023-12-26,Boxing Day,['Optional holiday'],Canada,CA
+2023-12-26,Boxing Day,['Local holiday'],Canada,CA
+2023-12-31,New Year's Eve,['Observance'],Canada,CA

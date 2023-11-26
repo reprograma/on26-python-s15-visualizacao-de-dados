@@ -1,0 +1,99 @@
+Date,Name,Type,Country Name,Country Code
+2023-01-01,New Year's Day,['National holiday'],United Kingdom,GB
+2023-01-02,New Year's Day observed,['National holiday'],United Kingdom,GB
+2023-01-03,2nd January (substitute day),['Local holiday'],United Kingdom,GB
+2023-01-05,Twelfth Night,"['Observance', 'Christian']",United Kingdom,GB
+2023-01-06,Epiphany,"['Observance', 'Christian']",United Kingdom,GB
+2023-01-07,Orthodox Christmas Day,"['Observance', 'Orthodox']",United Kingdom,GB
+2023-01-14,Orthodox New Year,"['Observance', 'Orthodox']",United Kingdom,GB
+2023-01-22,Lunar New Year,['Observance'],United Kingdom,GB
+2023-01-25,Burns Night,['Local observance'],United Kingdom,GB
+2023-02-06,Tu B'Shevat (Arbor Day),"['Observance', 'Hebrew']",United Kingdom,GB
+2023-02-14,Valentine's Day,['Observance'],United Kingdom,GB
+2023-02-18,Maha Shivaratri,"['Observance', 'Hinduism']",United Kingdom,GB
+2023-02-18,Isra and Mi'raj,"['Observance', 'Muslim']",United Kingdom,GB
+2023-02-21,Carnival / Shrove Tuesday / Pancake Day,"['Observance', 'Christian']",United Kingdom,GB
+2023-02-22,Carnival / Ash Wednesday,"['Observance', 'Christian']",United Kingdom,GB
+2023-03-01,St. David's Day,"['Local observance', 'Christian']",United Kingdom,GB
+2023-03-07,Purim,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-03-17,St Patrick's Day,"['Local holiday', 'Christian']",United Kingdom,GB
+2023-03-19,Mother's Day,['Observance'],United Kingdom,GB
+2023-03-20T21:24:20+00:00,March Equinox,['Season'],United Kingdom,GB
+2023-03-23,Ramadan Start,"['Observance', 'Muslim']",United Kingdom,GB
+2023-03-26T01:00:00+00:00,Daylight Saving Time starts,['Clock change/Daylight Saving Time'],United Kingdom,GB
+2023-04-02,Palm Sunday,"['Observance', 'Christian']",United Kingdom,GB
+2023-04-06,Maundy Thursday,"['Observance', 'Christian']",United Kingdom,GB
+2023-04-06,First day of Passover,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-04-07,Good Friday,"['National holiday', 'Christian']",United Kingdom,GB
+2023-04-08,Holy Saturday,"['Observance', 'Christian']",United Kingdom,GB
+2023-04-09,Easter Sunday,"['Observance', 'Christian']",United Kingdom,GB
+2023-04-10,Easter Monday,['Local observance'],United Kingdom,GB
+2023-04-10,Easter Monday,"['Christian', 'Common local holiday']",United Kingdom,GB
+2023-04-13,Last day of Passover,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-04-14,Orthodox Good Friday,"['Observance', 'Orthodox']",United Kingdom,GB
+2023-04-15,Orthodox Holy Saturday,"['Observance', 'Orthodox']",United Kingdom,GB
+2023-04-16,Orthodox Easter,"['Observance', 'Orthodox']",United Kingdom,GB
+2023-04-17,Laylatul Qadr (Night of Power),"['Observance', 'Muslim']",United Kingdom,GB
+2023-04-17,Orthodox Easter Monday,"['Observance', 'Orthodox']",United Kingdom,GB
+2023-04-18,Yom HaShoah,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-04-21,Eid ul Fitr,"['Observance', 'Muslim']",United Kingdom,GB
+2023-04-22,Eid ul Fitr,"['Observance', 'Muslim']",United Kingdom,GB
+2023-04-22,Stephen Lawrence Day,['Observance'],United Kingdom,GB
+2023-04-23,St. George's Day,"['Observance', 'Christian']",United Kingdom,GB
+2023-04-23,St. George's Day,['Observance'],United Kingdom,GB
+2023-04-23,Shakespeare Day,['Observance'],United Kingdom,GB
+2023-04-26,Yom HaAtzmaut,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-05-01,Early May Bank Holiday,['National holiday'],United Kingdom,GB
+2023-05-06,The Coronation of King Charles III,['Observance'],United Kingdom,GB
+2023-05-08,Bank Holiday for the Coronation of King Charles III,['National holiday'],United Kingdom,GB
+2023-05-09,Lag B'Omer,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-05-18,Ascension Day,"['Observance', 'Christian']",United Kingdom,GB
+2023-05-26,Shavuot,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-05-28,Pentecost,"['Observance', 'Christian']",United Kingdom,GB
+2023-05-29,Whit Monday,"['Observance', 'Christian']",United Kingdom,GB
+2023-05-29,Spring Bank Holiday,['National holiday'],United Kingdom,GB
+2023-06-04,Trinity Sunday,"['Observance', 'Christian']",United Kingdom,GB
+2023-06-08,Corpus Christi,"['Observance', 'Christian']",United Kingdom,GB
+2023-06-17,King's Birthday,['Observance'],United Kingdom,GB
+2023-06-18,Father's Day,['Observance'],United Kingdom,GB
+2023-06-21T15:57:49+01:00,June Solstice,['Season'],United Kingdom,GB
+2023-06-22,Windrush Day,['Observance'],United Kingdom,GB
+2023-06-28,Eid al-Adha,"['Observance', 'Muslim']",United Kingdom,GB
+2023-06-29,Eid al-Adha,"['Observance', 'Muslim']",United Kingdom,GB
+2023-07-12,Battle of the Boyne,['Local holiday'],United Kingdom,GB
+2023-07-19,Muharram/Islamic New Year,"['Observance', 'Muslim']",United Kingdom,GB
+2023-07-27,Tisha B'Av,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-07-28,Ashura,"['Observance', 'Muslim']",United Kingdom,GB
+2023-07-29,Ashura,"['Observance', 'Muslim']",United Kingdom,GB
+2023-08-07,Summer Bank Holiday,['Common local holiday'],United Kingdom,GB
+2023-08-15,Assumption of Mary,"['Observance', 'Christian']",United Kingdom,GB
+2023-08-28,Summer Bank Holiday,['Common local holiday'],United Kingdom,GB
+2023-09-06,Janmashtami (Smarta),"['Observance', 'Hinduism']",United Kingdom,GB
+2023-09-07,Janmashtami,"['Observance', 'Hinduism']",United Kingdom,GB
+2023-09-16,Rosh Hashana,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-09-18,Ganesh Chaturthi,"['Observance', 'Hinduism']",United Kingdom,GB
+2023-09-23T07:50:01+01:00,September Equinox,['Season'],United Kingdom,GB
+2023-09-25,Yom Kippur,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-09-27,Milad un Nabi (Mawlid),"['Observance', 'Muslim']",United Kingdom,GB
+2023-09-30,First day of Sukkot,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-10-04,Feast of St Francis of Assisi,"['Observance', 'Christian']",United Kingdom,GB
+2023-10-06,Hoshana Rabbah,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-10-07,Shemini Atzeret,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-10-08,Simchat Torah,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-10-29T02:00:00+01:00,Daylight Saving Time ends,['Clock change/Daylight Saving Time'],United Kingdom,GB
+2023-10-31,Halloween,['Observance'],United Kingdom,GB
+2023-11-01,All Saints' Day,"['Observance', 'Christian']",United Kingdom,GB
+2023-11-02,All Souls' Day,"['Observance', 'Christian']",United Kingdom,GB
+2023-11-05,Guy Fawkes Day,['Observance'],United Kingdom,GB
+2023-11-12,Diwali/Deepavali,"['Observance', 'Hinduism']",United Kingdom,GB
+2023-11-12,Remembrance Sunday,['Observance'],United Kingdom,GB
+2023-11-30,St Andrew's Day,"['Local holiday', 'Christian']",United Kingdom,GB
+2023-12-03,First Sunday of Advent,"['Observance', 'Christian']",United Kingdom,GB
+2023-12-08,Feast of the Immaculate Conception,"['Observance', 'Christian']",United Kingdom,GB
+2023-12-08,First Day of Hanukkah,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-12-15,Last day of Hanukkah,"['Observance', 'Hebrew']",United Kingdom,GB
+2023-12-22T03:27:21+00:00,December Solstice,['Season'],United Kingdom,GB
+2023-12-24,Christmas Eve,"['Observance', 'Christian']",United Kingdom,GB
+2023-12-25,Christmas Day,"['National holiday', 'Christian']",United Kingdom,GB
+2023-12-26,Boxing Day,['National holiday'],United Kingdom,GB
+2023-12-31,New Year's Eve,['Observance'],United Kingdom,GB
