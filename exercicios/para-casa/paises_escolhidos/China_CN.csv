@@ -1,0 +1,52 @@
+Date,Name,Type,Country Name,Country Code
+2023-01-01,New Year's Day,['National holiday'],China,CN
+2023-01-02,New Year's Holiday,['National holiday'],China,CN
+2023-01-21,Spring Festival Eve,['National holiday'],China,CN
+2023-01-22,Lunar New Year,['National holiday'],China,CN
+2023-01-23,Spring Festival Golden Week holiday,['National holiday'],China,CN
+2023-01-24,Spring Festival Golden Week holiday,['National holiday'],China,CN
+2023-01-25,Spring Festival Golden Week holiday,['National holiday'],China,CN
+2023-01-26,Spring Festival Golden Week holiday,['National holiday'],China,CN
+2023-01-27,Spring Festival Golden Week holiday,['National holiday'],China,CN
+2023-01-28,Special Working Day,['Weekend'],China,CN
+2023-01-29,Special Working Day,['Weekend'],China,CN
+2023-02-05,Lantern Festival,['Observance'],China,CN
+2023-02-21,Zhonghe Festival,['Observance'],China,CN
+2023-03-08,International Women's Day,['National holiday'],China,CN
+2023-03-12,Arbor Day,['Observance'],China,CN
+2023-03-21T05:24:20+08:00,March Equinox,['Season'],China,CN
+2023-04-05,Qing Ming Jie,['National holiday'],China,CN
+2023-04-23,Special Working Day,['Weekend'],China,CN
+2023-04-29,Labour Day Holiday,['National holiday'],China,CN
+2023-04-30,Labour Day Holiday,['National holiday'],China,CN
+2023-05-01,Labour Day,['National holiday'],China,CN
+2023-05-02,Labour Day Holiday,['National holiday'],China,CN
+2023-05-03,Labour Day Holiday,['National holiday'],China,CN
+2023-05-04,Youth Day,['National holiday'],China,CN
+2023-05-06,Special Working Day,['Weekend'],China,CN
+2023-06-01,Children's Day,['Observance'],China,CN
+2023-06-21T22:57:49+08:00,June Solstice,['Season'],China,CN
+2023-06-22,Dragon Boat Festival,['National holiday'],China,CN
+2023-06-23,Dragon Boat Festival holiday,['National holiday'],China,CN
+2023-06-24,Dragon Boat Festival holiday,['National holiday'],China,CN
+2023-06-25,Special Working Day,['Weekend'],China,CN
+2023-07-01,CPC Founding Day,['Observance'],China,CN
+2023-07-11,Maritime Day,['Observance'],China,CN
+2023-08-01,Army Day,['Observance'],China,CN
+2023-08-22,Chinese Valentine's Day,['Observance'],China,CN
+2023-08-30,Spirit Festival,['Observance'],China,CN
+2023-09-10,Teachers' Day,['Observance'],China,CN
+2023-09-23T14:50:01+08:00,September Equinox,['Season'],China,CN
+2023-09-29,Mid-Autumn Festival,['National holiday'],China,CN
+2023-10-01,National Day,['National holiday'],China,CN
+2023-10-02,National Day Golden Week holiday,['National holiday'],China,CN
+2023-10-03,National Day Golden Week holiday,['National holiday'],China,CN
+2023-10-04,National Day Golden Week holiday,['National holiday'],China,CN
+2023-10-05,National Day Golden Week holiday,['National holiday'],China,CN
+2023-10-06,National Day Golden Week holiday,['National holiday'],China,CN
+2023-10-07,Special Working Day,['Weekend'],China,CN
+2023-10-08,Special Working Day,['Weekend'],China,CN
+2023-10-23,Double Ninth Festival,['Observance'],China,CN
+2023-11-08,Journalists' Day,['Observance'],China,CN
+2023-12-22T11:27:21+08:00,December Solstice,['Season'],China,CN
+2023-12-25,Christmas Day,['Observance'],China,CN
